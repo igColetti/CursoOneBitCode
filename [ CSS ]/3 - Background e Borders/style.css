@@ -1,0 +1,31 @@
+h1 {
+    color : purple;
+    border-color: yellow;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.moon {
+   color: yellow; 
+   font-size: 25px;
+
+}
+
+.sol {
+    color: red;
+    font-size: 70px;
+
+}
+
+
+
+body {
+    background-image: url('https://st2.depositphotos.com/3562663/12352/i/450/depositphotos_123520372-stock-photo-clear-blue-sky.jpg');
+    background-repeat: no-repeat;  
+    background-size: cover;
+}
+
+#amalteia-text{
+    color: blue;
+    font-size: 30px;
+}
